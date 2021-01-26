@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.4
+Name: unitconverter
+Formal-Name: Unit conventer
+App-ID: com.example.unitconverter
+Version: 0.0.1
+Home-page: https://example.com/unitconverter
+Author: Francis Jervoso
+Author-email: francis@example.com
+Summary: this is unit converter
